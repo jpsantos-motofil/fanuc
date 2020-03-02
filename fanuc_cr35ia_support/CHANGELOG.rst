@@ -13,6 +13,6 @@ Changelog for package fanuc_cr35ia_support
 * use Jade+ xacro 'pi' constant instead of redefining it ourselves (`#209 <https://github.com/ros-industrial/fanuc/issues/209>`_).
 * add XML schema processing instruction (`#200 <https://github.com/ros-industrial/fanuc/issues/200>`_).
 * migrate to in-order processing of xacros.
-* use 'xacro' instead of 'xacro.py' (`#195 <https://github.com/ros-industrial/fanuc/issues/195>`_).
+* use 'xacro instead of 'xacro.py' (`#195 <https://github.com/ros-industrial/fanuc/issues/195>`_).
 * update colour to match real CR-35iA (`#18 <https://github.com/ros-industrial/fanuc_experimental/issues/18>`_).
 * for a complete list of changes see the `commit log for 0.5.0 <https://github.com/ros-industrial/fanuc/compare/0.4.4...0.5.0>`_.
